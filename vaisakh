@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set `date`
+
+cp vaisakh "madhavan$5"
+
+bash "madhavan$5" 
